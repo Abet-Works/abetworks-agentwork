@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "abetworks-agentwork"
+version = "1.0.0"
+description = "Agent automation tools by Abetworks"
+readme = "README.md"
+authors = [{ name="Abet Works", email="info@abetworks.com" }]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = []
