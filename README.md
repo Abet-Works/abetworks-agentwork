@@ -106,8 +106,8 @@ agent.register_with_platform(
 
 ## Documentation
 
-- Full Documentation: [https://docs.abetworks.in](https://docs.abetworks.in)
-- GitHub Repository: [https://github.com/abetworks/abetworks-agentwork](https://github.com/abetworks/abetworks-agentwork)
+- Full Documentation: [https://docs.abetworks.in](https://abetworks.in)
+- GitHub Repository: [https://github.com/abetworks/abetworks-agentwork](https://github.com/Abet-Works/abetworks-agentwork)
 - Website: [https://abetworks.in](https://abetworks.in)
 
 ## Support
